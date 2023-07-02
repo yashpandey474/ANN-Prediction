@@ -1,5 +1,5 @@
 # Churn Prediction Neural Network
-This project implements a neural network model for churn prediction using customer data. The goal is to predict whether a customer is likely to churn (i.e., leave) a service or not based on various features.
+This project implements a neural network model for churn prediction using customer data. The goal is to predict whether a customer is likely to churn (i.e., leave) a service or not based on various features. Built as part of the Deep Learning A-Z course on Udemy.
 
 # Dataset
 The dataset used for this project is "Churn_Modelling.csv". It contains customer information such as age, gender, credit score, balance, etc., along with a label indicating whether the customer churned or not.
